@@ -24,7 +24,7 @@
     "bitpos-node": "^1.0.7",
     "bluebird": "^3.4.7",
     "body-parser": "~1.5.2",
-    "braintree": "~1.19.0",
+    "braintree": "~3.15.0",
     "bson": "^0.4.23",
     "compression": "~1.0.9",
     "connect-flash": "~0.1.1",
