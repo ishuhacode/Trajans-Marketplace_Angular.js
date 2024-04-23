@@ -40,7 +40,7 @@
     "express": "~4.7.2",
     "express-session": "~1.7.2",
     "fs-extra": "2.0.0",
-    "git-rev-sync": "^1.4.0",
+    "git-rev-sync": "^3.0.2",
     "glob": "~4.0.5",
     "google-places": "0.0.2",
     "helmet": "~0.4.0",
