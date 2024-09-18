@@ -37,7 +37,7 @@
     "currency-formatter": "^1.0.6",
     "date-fns": "^1.27.1",
     "every-moment": "0.0.1",
-    "express": "~4.7.2",
+    "express": "~4.20.0",
     "express-session": "~1.7.2",
     "fs-extra": "2.0.0",
     "git-rev-sync": "^1.4.0",
